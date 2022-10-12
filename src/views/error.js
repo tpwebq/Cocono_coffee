@@ -22,7 +22,7 @@ function Error(){
                     </Col>
                 </Row>
             </Container>
-            <Footer classExt={"fixed-bottom"}/>
+            <Footer/>
         </main>
     );
 }
